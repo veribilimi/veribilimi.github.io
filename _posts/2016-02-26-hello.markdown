@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Merhaba"
+date:   2016-02-26 14:40:59 +0200
+categories: general
+---
+
+
+Veri biliminin farklı alanlarında çalışan insanların paylaşım ortamı.
+İş zekası, büyük veri, analitik, yapay öğrenme, yapay zeka, veri görselleştirme gibi alanlarla ilgileniyoruz.
+Grup yönetimi ve bilgi paylaşımında, açık kaynak yaklaşımını ve katılımcı yöntemi benimsiyoruz.
