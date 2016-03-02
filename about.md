@@ -18,7 +18,7 @@ Grup yönetimi ve bilgi paylaşımında, açık kaynak yaklaşımını ve katıl
 * Deep Learning'e Giriş - https://www.youtube.com/watch?v=37ecsMezvwM
 * Tableau ile Dijital Pazarlamada Görselleme - https://www.youtube.com/watch?v=Rw_UfEIF1IM
 * SAP Lumira il Herkes İçin Görselleme - https://www.youtube.com/watch?v=uJ_nluDk2i8
-* Mekansal Veri Görselleme: Renkler, Yöntemler ve Hatalar - https://www.youtube.com/watch?v=uJ_nluDk2i8
+* Mekansal Veri Görselleme: Renkler, Yöntemler ve Hatalar - https://www.youtube.com/watch?v=Qt5fDGjMI2U
 * NodeXL + CartoDB - https://www.youtube.com/watch?v=03gRpS3YCzA
 
 ### Grupta Paylaşılan Çeşitli Kaynaklar
