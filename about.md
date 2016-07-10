@@ -11,10 +11,11 @@ Grup yönetimi ve bilgi paylaşımında, açık kaynak yaklaşımını ve katıl
 
 
 ### İletişim
-* Twitter [https://twitter.com/veribilimiist](https://twitter.com/veribilimiist)
 * Facebook gurubu [https://www.facebook.com/groups/veribilimiistanbul](https://www.facebook.com/groups/veribilimiistanbul/)
+* Twitter [https://twitter.com/veribilimiist](https://twitter.com/veribilimiist)
 
 ### Etkinlik Videoları
+* Kaydedilen Tüm Videolar YouTube Kanalımızda - https://www.youtube.com/channel/UCSkTha70uL1t2ovQkovo_QQ/videos
 * Deep Learning'e Giriş - [https://www.youtube.com/watch?v=37ecsMezvwM](https://www.youtube.com/watch?v=37ecsMezvwM)
 * Tableau ile Dijital Pazarlamada Görselleme - [https://www.youtube.com/watch?v=Rw_UfEIF1IM](https://www.youtube.com/watch?v=Rw_UfEIF1IM)
 * SAP Lumira il Herkes İçin Görselleme - [https://www.youtube.com/watch?v=uJ_nluDk2i8](https://www.youtube.com/watch?v=uJ_nluDk2i8)
